@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @abdelmounim-dev
 - 👀 I’m interested in improving my skills
 - 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning linux OS
 - 💞️ I’m looking to collaborate on maybe my first project
 - 📫 How to reach me: abdelmounimbaouia@gmail.com
 
