@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelmounim Baouia</h1>
 <h3 align="center">A passionate Backend developer from Algeria</h3>
 
-- 🌱 I’m currently learning **C# / Asp.net, Go, Laravel**
-
 - 📫 How to reach me **abdelmounimbaouia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
